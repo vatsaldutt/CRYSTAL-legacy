@@ -3,6 +3,8 @@ Version from May 4, 2021\
 Original Repo: https://github.com/vatdut8994/All-code/tree/main/python/raspi%20code \
 Superceding version: https://github.com/vatsaldutt/CRYSTAL-Mark-I.git
 
+---
+
 CRYSTAL0 is the original, experimental version of CRYSTAL. This version was built primarily as a learning project, following a YouTube tutorial on basic machine learning chatbots, and then extended well beyond the tutorial’s scope.
 At its core, CRYSTAL0 is a rule-based / ML-assisted chatbot capable of classifying simple prompt categories such as greetings, farewells, and basic conversational phrases (e.g., “hello”, “bye”, “how are you?”). Once a category was detected, the bot would respond using a randomly selected reply from a hard-coded response list for that category. Despite its simplicity, it could generalize slightly across variations in phrasing through basic word tokenization.
 
