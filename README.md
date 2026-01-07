@@ -1,7 +1,7 @@
 # CRYSTAL0 (Legacy)
 Version from May 4, 2021\
 Original Repo: https://github.com/vatdut8994/All-code/tree/main/python/raspi%20code \
-Superceding version: https://github.com/vatsaldutt/CRYSTAL-Mark-I.git
+Superceding version: https://github.com/vatsaldutt/CRYSTAL-R0.git
 
 ---
 
